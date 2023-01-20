@@ -1,6 +1,6 @@
-# tiRMSD-paper-data
+# mRMSD-paper-data
 
-tiRMSD: sample code for time interval-dependent RMSD (tiRMSD)
+mRMSD: sample code for moving RMSD (mRMSD)
 
 Trp-cage: data for Trp-cage
 
