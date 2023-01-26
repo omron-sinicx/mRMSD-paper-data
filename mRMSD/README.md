@@ -1,6 +1,6 @@
 # perform
 
-python tiRMSD.py
+python mRMSD.py
 
 # requirement
 
